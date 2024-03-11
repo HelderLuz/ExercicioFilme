@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body{
+    background-color: chartreuse;
+    font-family: "Open Sans", sans-serif;
+}
+h1{
+    color: crimson;
+}
+p{
+    color: red;
+    text-align: justify;
+}
+
+table{
+    border: 2px black solid;
+    border-collapse: collapse;
+}
+
+table td{
+    border: 2px gray solid;
+}
+
+#paragrafo {
+    background-color: black;
+}
+
+.center{
+    text-align: center;
+}
